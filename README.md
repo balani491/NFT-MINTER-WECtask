@@ -36,7 +36,10 @@ Some of the resources i used during the project:-
 
 ## Deployment
 
-To deploy this project run
+To deploy this project run 
+
+run this on git bash   -  git clone https://github.com/balani491/NFT-MINTER-WECtask
+
 
 ```bash
   npm install
@@ -44,12 +47,11 @@ To deploy this project run
   npm start
 ```
 
-Create a .env first which would contain  //env file is already created just add the details
+Create a .env first which would contain  
 
 REACT_APP_PINATA_KEY =  
 REACT_APP_PINATA_SECRET =   
 REACT_APP_ALCHEMY_KEY = " "
 
-
-The code is in the master branch and the contract i implemented is in https://github.com/balani491/NFT-ERC-721-Contract
+The contract i implemented is in https://github.com/balani491/NFT-ERC-721-Contract
 
