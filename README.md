@@ -30,7 +30,7 @@ Some of the resources i used during the project:-
 
 ## Demo
 
-![]([https://github.com/balani491/WEC-task-SystemsGDSC-NFT-MINTER-Rahul-Balani-221DS009-/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif](https://github.com/balani491/NFT-MINTER-WECtask/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).gif))
+![Download .gif file if not visible](https://github.com/balani491/NFT-MINTER-WECtask/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).gif)
 
 
 
