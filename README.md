@@ -55,3 +55,11 @@ REACT_APP_ALCHEMY_KEY = " "
 
 The contract i implemented is in https://github.com/balani491/NFT-ERC-721-Contract
 
+
+
+
+
+
+
+
+// if demo is not working download .gif file
